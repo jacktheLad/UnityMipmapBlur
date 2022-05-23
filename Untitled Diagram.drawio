@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T08:09:01.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="4a7zWHZIfOUpPLqGI-lm" version="18.1.1" type="github">
-  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-05-23T08:25:10.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="NmPpqq0w9_kcKvjJYWsA" version="18.1.1" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="渲染状态">
     <mxGraphModel dx="1185" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5q_nKeBdXIXhfSAEZaW--7" value="为什么有Static Batch/Dynamic Batch/GPU Instancing/SRP Batach&amp;nbsp;这些技术？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="35" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5q_nKeBdXIXhfSAEZaW--8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/444/aiga_information-128.png" vertex="1" parent="1">
+          <mxGeometry x="70" y="35" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5q_nKeBdXIXhfSAEZaW--9" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Key.svg;" vertex="1" parent="1">
+          <mxGeometry x="74.5" y="100" width="31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5q_nKeBdXIXhfSAEZaW--10" value="Keyword:&amp;nbsp;渲染状态(Render State)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="105" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5q_nKeBdXIXhfSAEZaW--11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ui-essential-17/32/UI_Essential_Outline_1_essential-app-ui-question-help-128.png;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="170" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5q_nKeBdXIXhfSAEZaW--12" value="Draw call很耗吗？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="165" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5q_nKeBdXIXhfSAEZaW--13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ui-essential-17/32/UI_Essential_Outline_1_essential-app-ui-question-help-128.png;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5q_nKeBdXIXhfSAEZaW--14" value="什么是渲染状态？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5q_nKeBdXIXhfSAEZaW--15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ui-essential-17/32/UI_Essential_Outline_1_essential-app-ui-question-help-128.png;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5q_nKeBdXIXhfSAEZaW--16" value="改变渲染状态的影响？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="235" width="520" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

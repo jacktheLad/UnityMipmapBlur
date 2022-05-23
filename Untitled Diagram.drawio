@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T08:25:10.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="NmPpqq0w9_kcKvjJYWsA" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T09:42:48.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="UDax7TdFNkCcSYAkTfOA" version="18.1.1" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="渲染状态">
     <mxGraphModel dx="1185" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -33,6 +33,17 @@
         </mxCell>
         <mxCell id="5q_nKeBdXIXhfSAEZaW--16" value="改变渲染状态的影响？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="160" y="235" width="520" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AMrwJa5M_H7Y8oERYGss" name="第 2 页">
+    <mxGraphModel dx="1422" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ME5c8gSkwFZJF1NsXwgd-1" value="PerMaterialCB调用堆栈" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="210" y="60" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
